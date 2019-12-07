@@ -7,6 +7,6 @@ public class StringRandomizer {
     public StringRandomizer()
     {
         ProfaneRandomized = new ArrayList<>();
-        ProfaneRandomized.add()
+        ProfaneRandomized.add("as")
     }
 }
